@@ -3,7 +3,7 @@
 Öffentliche Dokumentenseite (GitHub Pages, Branch `main`, `.nojekyll`) zum Pé „Schule (er)leben“, gleicher Stil wie windmobile-erasmus.
 
 - Live: https://rkrv5jy6bm-sudo.github.io/schule-er-leben/
-- Dossier de candidature bewusst nicht veröffentlicht (IAM-Kennungen, Unterschriften)
+- Dossier de candidature nur als geschwärzte Fassung (Seite 1 ohne IAM-Kennungen und Unterschrift, als Bild neu aufgebaut)
 
 - `index.html` – ganze Seite in einer Datei (CSS + JS inline, LTEtt-Logo als WebP-Data-URI)
 - `docs/` – Unterlagen; PPTX/DOCX zusätzlich als PDF zum direkten Ansehen
